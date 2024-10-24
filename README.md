@@ -1,4 +1,4 @@
-# resumo sobre segurança e identidade no Azure
+# Resumo sobre segurança e identidade no Azure
 
 
 Segurança em Camadas: Azure adota uma abordagem de segurança em várias camadas, incluindo proteção física, rede, e aplicações.
